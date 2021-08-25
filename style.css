@@ -1,0 +1,36 @@
+/*
+1. Posicionamiento
+2. Modelo de caja
+3. Tipografia
+4. Visuales
+5. Otros
+*/
+
+:root
+{
+/*Colores*/
+--BG-lineal: gradiente lineal ( 207.8deg , #201E1C 16.69% , #F7931A 100% ) ;
+--bitcoin-orange: #F7931A;
+--soft-orange: #FFE9D5;
+--secudary-blue: #1a9af7;
+--soft-blue: #e7f5ff;
+--warm-black: #201e1c;
+--black: #282623;
+--grey: #bababa;
+--off-white: #faf8f7;
+--just-white: #fff;
+}
+
+
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    font-size: 62.%;
+    font-family: 'DM Sans', sans-serif;
+}
