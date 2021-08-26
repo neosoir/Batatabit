@@ -286,5 +286,5 @@ main
     font-size: 1.2rem;
     color: var(--warm-black);
     line-height: 1.5rem;
-    font-weight: 300; /**solucionamos un conflicto de herencia/
+    font-weight: 300; /*solucionamos un conflicto de herencia*/
 }
